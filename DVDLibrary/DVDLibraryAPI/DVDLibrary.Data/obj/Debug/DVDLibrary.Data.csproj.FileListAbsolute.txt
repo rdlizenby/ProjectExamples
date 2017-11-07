@@ -1,0 +1,8 @@
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\DVDLibrary\DVDLibraryAPI\DVDLibrary.Data\bin\Debug\DVDLibrary.Data.dll
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\DVDLibrary\DVDLibraryAPI\DVDLibrary.Data\bin\Debug\DVDLibrary.Data.pdb
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\DVDLibrary\DVDLibraryAPI\DVDLibrary.Data\bin\Debug\DVDLibrary.Models.dll
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\DVDLibrary\DVDLibraryAPI\DVDLibrary.Data\bin\Debug\DVDLibrary.Models.pdb
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\DVDLibrary\DVDLibraryAPI\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.csprojResolveAssemblyReference.cache
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\DVDLibrary\DVDLibraryAPI\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\DVDLibrary\DVDLibraryAPI\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.dll
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\DVDLibrary\DVDLibraryAPI\DVDLibrary.Data\obj\Debug\DVDLibrary.Data.pdb

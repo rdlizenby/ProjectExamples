@@ -1,0 +1,9 @@
+USE master
+GO
+
+IF EXISTS(SELECT * FROM sys.databases WHERE NAME='DVDLibrary')
+DROP DATABASE DVDLibrary
+GO
+
+CREATE DATABASE DVDLibrary
+GO

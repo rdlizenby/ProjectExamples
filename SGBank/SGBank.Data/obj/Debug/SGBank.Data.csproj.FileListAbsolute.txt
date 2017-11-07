@@ -1,0 +1,10 @@
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csprojResolveAssemblyReference.cache
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Data\obj\Debug\SGBank.Data.pdb
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Data\bin\Debug\Ninject.dll
+C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Data\bin\Debug\Ninject.xml
