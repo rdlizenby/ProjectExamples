@@ -1,0 +1,15 @@
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\plugin.json
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Configure.cshtml
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\PaymentInfo.cshtml
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\_ViewImports.cshtml
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Customer\_CreateOrUpdate.Worldpay.cshtml
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\cards.jpg
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\logo.jpg
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.dll
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.pdb
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\net461\Nop.Plugin.Payments.Worldpay.csprojResolveAssemblyReference.cache
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\net461\Nop.Plugin.Payments.Worldpay.csproj.CoreCompileInputs.cache
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\net461\Nop.Plugin.Payments.Worldpay.AssemblyInfoInputs.cache
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\net461\Nop.Plugin.Payments.Worldpay.AssemblyInfo.cs
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\net461\Nop.Plugin.Payments.Worldpay.dll
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Release\net461\Nop.Plugin.Payments.Worldpay.pdb

@@ -1,0 +1,14 @@
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\plugin.json
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_ViewImports.cshtml
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.csproj.CoreCompileInputs.cache
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.AssemblyInfoInputs.cache
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.AssemblyInfo.cs
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.dll
+C:\Users\Rorie\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.pdb

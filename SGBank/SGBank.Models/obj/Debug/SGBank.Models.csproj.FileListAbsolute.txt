@@ -1,6 +1,0 @@
-C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Models\bin\Debug\SGBank.Models.dll
-C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Models\bin\Debug\SGBank.Models.pdb
-C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
-C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
-C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Models\obj\Debug\SGBank.Models.dll
-C:\Users\Rorie\Documents\bitbucket\rorie-lizenby-individual-work\SGBank\SGBank.Models\obj\Debug\SGBank.Models.pdb
