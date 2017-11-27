@@ -1,0 +1,5 @@
+C:\Users\Rorie\Desktop\GitPorfolio\DVDLibrary\DVDLibraryAPI\DVDLibrary.Models\bin\Release\DVDLibrary.Models.dll
+C:\Users\Rorie\Desktop\GitPorfolio\DVDLibrary\DVDLibraryAPI\DVDLibrary.Models\bin\Release\DVDLibrary.Models.pdb
+C:\Users\Rorie\Desktop\GitPorfolio\DVDLibrary\DVDLibraryAPI\DVDLibrary.Models\obj\Release\DVDLibrary.Models.csproj.CoreCompileInputs.cache
+C:\Users\Rorie\Desktop\GitPorfolio\DVDLibrary\DVDLibraryAPI\DVDLibrary.Models\obj\Release\DVDLibrary.Models.dll
+C:\Users\Rorie\Desktop\GitPorfolio\DVDLibrary\DVDLibraryAPI\DVDLibrary.Models\obj\Release\DVDLibrary.Models.pdb

@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Drink-O-Vend</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel='stylesheet' href="css/bootstrap.min.css">
+    <link rel='stylesheet' href="css/bootstrap-grid.min.css">
+    <link rel='stylesheet' href="css/bootstrap-reboot.css">
+    <link rel='stylesheet' href="css/bootstrap-grid.css.map">
+    <style>
+        p {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 class="display-2">Vending Machine</h1>
+            <hr COLOR="black" SIZE="6">
+        </div>
+        <div class="row">
+            <div class="col-md-8" id="item-div">
+                <div class="container row" id="holds-items">
+                </div>
+            </div>
+            <div class="col-md-4" id="controls-div">
+                <h2>Total $ In</h2>
+                <h2 id="deposited">0</h2>
+                <div class="row wrapper">
+                    <button type='button' id='add-dollar' class="btn btn-default money" onclick="addMoney(100)">Add Dollar</button>
+                    <button type='button' id='add-quarter' class="btn btn-default money" onclick="addMoney(25)">Add Quarter</button>
+                    <button type='button' id='add-dime' class="btn btn-default money" onclick="addMoney(10)">Add Dime</button>
+                    <button type='button' id='add-nickel' class="btn btn-default money" onclick="addMoney(5)">Add Nickel</button>
+                </div>
+                <hr COLOR="black" SIZE="6">
+                <h2>Messages</h2>
+                <h2 id="messages"></h2>
+                <div class="row wrapper">
+                    <h2>Item: </h2>
+                    <h2 id="item-choice"></h2>
+                </div>
+                <div class='row wrapper'>
+                    <button type='button' id='makePurchase' class="btn btn-default" onclick="makePurchase()" style="display:inline">Make Purchase</button>
+                </div>
+                <hr COLOR="black" SIZE="6">
+                <h2>Change</h2>
+                <h5 id="change"></h5>
+                <button type='button' id='returnChange' class="btn btn-default" onclick="returnChange()">ChangeReturn</button>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/home.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\Rorie\Desktop\GitPorfolio\DVDLibrary\AzureDVDLibrary\bin\Debug\AzureDVDLibrary.dacpac
+C:\Users\Rorie\Desktop\GitPorfolio\DVDLibrary\AzureDVDLibrary\obj\Debug\AzureDVDLibrary.dll
+C:\Users\Rorie\Desktop\GitPorfolio\DVDLibrary\AzureDVDLibrary\obj\Debug\AzureDVDLibrary.pdb
+C:\Users\Rorie\Desktop\GitPorfolio\DVDLibrary\AzureDVDLibrary\bin\Debug\AzureDVDLibrary.dll
+C:\Users\Rorie\Desktop\GitPorfolio\DVDLibrary\AzureDVDLibrary\bin\Debug\AzureDVDLibrary.pdb
